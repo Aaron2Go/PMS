@@ -1,0 +1,5 @@
+*.db
+/data/
+/other/
+/.idea/
+/__pycache__/
